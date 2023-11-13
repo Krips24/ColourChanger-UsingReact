@@ -44,4 +44,4 @@ This project is licensed under the [MIT License](LICENSE) - feel free to use, mo
 
 ---
 
-Feel free to add or modify sections according to your project specifics and preferences. This template should give a good structure to introduce your project on GitHub.
+
